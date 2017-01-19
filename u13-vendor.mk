@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/oukitel/u13/u13-vendor-blobs.mk)
